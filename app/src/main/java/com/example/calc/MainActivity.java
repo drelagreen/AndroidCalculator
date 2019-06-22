@@ -102,7 +102,6 @@ public class MainActivity extends AppCompatActivity {
         } catch (Exception ignored){}
 
 
-
     }
     void moveLeft(){
         Toast t = Toast.makeText(this, "влево", Toast.LENGTH_SHORT);
